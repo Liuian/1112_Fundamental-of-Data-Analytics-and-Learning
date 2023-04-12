@@ -5,3 +5,6 @@ pandas==1.0.3
 scikit-learn==0.22.2.post1
 scipy==1.4.1
 sklearn==0.0
+
+references
+https://www.kaggle.com/code/goldens/titanic-on-the-top-with-a-simple-model/notebook
